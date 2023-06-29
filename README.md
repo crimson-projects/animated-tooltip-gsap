@@ -1,6 +1,6 @@
 <div align="center">
 
-# Buy Me a Coffe Clone Version  | Crimson
+# Animated tooltip using GSAP  | Crimson
 
 <img src="admin/base.png">
 
